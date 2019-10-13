@@ -1,1 +1,6 @@
-"# study_java_virtual_machine" 
+# 深入理解java虚拟机学习记录
+    这里是我学习本书时，做的一些笔记记录
+## Java内存区域与内存溢出溢出
+    * [运行时数据区域](catalog\chapter02\2.2.md)
+
+
