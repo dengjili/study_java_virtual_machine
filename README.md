@@ -3,7 +3,7 @@
 ## Java内存区域与内存溢出溢出
 * [运行时数据区域](catalog/chapter02/2.2.md)
 * [HotSpot虚拟机对象了解](catalog/chapter02/2.3.md)
-* ~~[OutOfMemoryError异常实践](catalog/chapter02/2.4.md)~~
+* [OutOfMemoryError异常实践](catalog/chapter02/2.4.md)
 
 ## Java内存区域与内存溢出溢出
 * ~~[java对象的存活分析](catalog/chapter03/3.1.md)~~
