@@ -6,7 +6,7 @@
 * [OutOfMemoryError异常实践](catalog/chapter02/2.4.md)
 
 ## Java内存区域与内存溢出溢出
-* ~~[java对象的存活分析](catalog/chapter03/3.1.md)~~
+* [java对象的存活分析](catalog/chapter03/3.1.md)
 * ~~[java对象的几种引用类型](catalog/chapter03/3.2.md)~~
 * ~~[java finalize了解](catalog/chapter03/3.3.md)~~
 * ~~[垃圾收集算法](catalog/chapter03/3.4.md)~~
