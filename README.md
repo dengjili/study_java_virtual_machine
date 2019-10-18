@@ -5,7 +5,7 @@
 * [HotSpot虚拟机对象了解](catalog/chapter02/2.3.md)
 * [OutOfMemoryError异常实践](catalog/chapter02/2.4.md)
 
-## Java内存区域与内存溢出溢出
+## 垃圾收集器和内存分配策略
 * [java对象的存活分析](catalog/chapter03/3.1.md)
 * ~~[java对象的几种引用类型](catalog/chapter03/3.2.md)~~
 * ~~[java finalize了解](catalog/chapter03/3.3.md)~~
